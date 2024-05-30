@@ -21,7 +21,7 @@ You need a web browser to run this application.
 
 1. **Clone the repo**
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
+    git clonehttps://github.com/jaluiovilash/to-do-list.git
     ```
 2. **Open `index.html` in your browser**
 
